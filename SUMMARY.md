@@ -1,4 +1,4 @@
 # Summary
 
-* Up & Going
+* [Up & Going](up & going/README.md)
 
